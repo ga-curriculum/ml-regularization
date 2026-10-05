@@ -23,8 +23,8 @@ Understand what regularization is, the different types you can apply (LASSO, Rid
 
 | Topic | About |
 | ------ | ------ |
-| [Slides](./01-slides) | -  Overview of regularization |
-| [Regularization ](./02-regularization) | - Compare Ridge, Lasso, and ElasticNet regularization techniques<br />- Implement regularized models using `scikit-learn`|
+| [Slides](https://github.com/ga-curriculum/ml-regularization/blob/main/01-slides/ML-Regularization.pdf){:target="_blank"} | -  Overview of regularization |
+| [Regularization ](https://github.com/ga-curriculum/ml-regularization/tree/main/02-regularization){:target="_blank"} | - Compare Ridge, Lasso, and ElasticNet regularization techniques<br />- Implement regularized models using `scikit-learn`|
 
 
 ## Prerequisites
